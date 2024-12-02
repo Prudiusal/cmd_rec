@@ -1,0 +1,8 @@
+*.pyc
+.env
+.DS_Store
+*.log
+Pipfile
+Pipfile.lock
+tst_sock.py
+0.2.27
